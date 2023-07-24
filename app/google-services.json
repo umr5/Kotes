@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010231437508",
+    "project_id": "kotes-c8bd9",
+    "storage_bucket": "kotes-c8bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010231437508:android:8451989c3b5ed08d8a4191",
+        "android_client_info": {
+          "package_name": "com.example.kotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010231437508-mlkutn87449s656fedggmdvna26kaers.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6lpyW_ZsknI6Rd9Fu7bmNh2FlJLqkCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010231437508-mlkutn87449s656fedggmdvna26kaers.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
